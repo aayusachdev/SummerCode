@@ -1,0 +1,15 @@
+
+BASICS
+
+OS is designed to serve two basic purposes:
+
+    It controls the allocation and use of the computing System’s resources among the various user and tasks.
+    It provides an interface between the computer hardware and the programmer that simplifies and makes feasible for coding, creation, debugging of application programs.
+
+The Operating system must support the following tasks. The task are:
+
+1.    Provides the facilities to create, modification of programs and data files using and editor.
+2.    Access to the compiler for translating the user program from high level language to machine language.
+3.    Provide a loader program to move the compiled program code to the computer’s memory for execution.
+4.    Provide routines that handle the details of I/O programming.
+
